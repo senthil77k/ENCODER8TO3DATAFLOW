@@ -49,8 +49,8 @@ Figure 02  Encoder 8 * 3
 **PROGRAM**
 
 ```
-Developed by: GOWTHAM N
-RegisterNumber:212223100008
+Developed by: SENTHIL KUMARAN C
+RegisterNumber:212223220103
 
 module encoder_4to2(A0, A1, YO, Y1, Y2, Y3);
 
